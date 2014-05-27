@@ -17,9 +17,10 @@
     "tests"
   ],
   "devDependencies": {
-    "requirejs": "~2.1.11"
+    "requirejs": "~2.1.11",
+    "bluebird": "~1.2.4"    
   },
   "dependencies": {
-    "bluebird": "~1.2.4"
+    "jquery": "~2.1.1"
   }
 }
